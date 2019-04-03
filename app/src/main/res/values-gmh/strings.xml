@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CarnetDigitalActivity</string>
+    <string name="main_nombres_y_apellidos">Namen und Nachnamen:</string>
+    <string name="main_especialidad">Spezialität</string>
+    <string name="main_dise_o_de_software_e_integracion_de_sistemas">Software-Design und Systemintegration</string>
+</resources>
